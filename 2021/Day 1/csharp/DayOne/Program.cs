@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-var linesAsInt = File.ReadAllLines("./data.input").Select(int.Parse).ToArray();
+﻿var linesAsInt = File.ReadAllLines("./data.input").Select(int.Parse).ToArray();
 
 #region DayOneA
 int? prevNum = null;
