@@ -1,5 +1,15 @@
+# IDEA
 **/.idea
+
+# VSCode
 **/.vscode
+
+# Python
 **/venv
+
+# .NET Core
+**/obj
+**/bin
+
 
 *.input
